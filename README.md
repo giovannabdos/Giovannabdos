@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/giovannabdos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannabdos&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabdos&layout=compact&langs_count=7&blueberry"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabdos&layout=compact&langs_count=7&theme=blueberry"/>  
   </div>
 
 ## Principais Tecnologias com que eu trabalho
